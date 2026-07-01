@@ -1,10 +1,10 @@
 # Notes-Agent
 
-Convert documents, images, and presentations into structured notes using a local AI — no API key required.
+What it does is that it converts documents, images, and presentations into structured notes using the Ollama AI — so we don't need any API key.
 
 ## What it does
 
-Give it a file, get back organized markdown notes with a summary, key concepts, main points, and more.
+We simply drop into the agent a file, which returns markdown notes with a summary, key concepts, main points, and small editable comments.
 
 **Supported file types:** `.txt` `.md` `.csv` `.pdf` `.pptx` `.jpg` `.png` `.gif` `.webp`
 
